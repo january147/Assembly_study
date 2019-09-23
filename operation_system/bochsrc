@@ -1,0 +1,5 @@
+
+#vgaromimage: file=/usr/share/vgabios/vgabios.bin
+floppya: image="a.img", status=inserted
+boot: floppy
+mouse: enabled=0
